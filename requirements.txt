@@ -1,7 +1,7 @@
 accelerate==0.21.0
 bitsandbytes==0.45.1
 chardet
-deepspeed==0.9.5
+deepspeed==0.17.1
 einops==0.6.1
 einops-exts==0.0.4
 flash_attn==2.5.8
